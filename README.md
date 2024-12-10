@@ -1,7 +1,8 @@
 # temple-game-v3
 name: Ren'Py setup          
   uses: Ayowel/renpy-setup-action@v2.0.1 
-  
+# link to powerpoint overview of game and issues we had: 
+# link to game play: 
 define e = Character()
 
 define pov = Character("[player_name]")  
