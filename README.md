@@ -1,4 +1,4 @@
-# temple-game-v3
+# temple-game-v3!
 name: Ren'Py setup          
   uses: Ayowel/renpy-setup-action@v2.0.1 
 # link to powerpoint overview of game and issues we had: 
