@@ -1,7 +1,7 @@
 # temple-game-v3!
 name: Ren'Py setup          
   uses: Ayowel/renpy-setup-action@v2.0.1 
-# link to powerpoint overview of game and issues we had: 
+# link to powerpoint overview of game and issues we had: https://tuprd-my.sharepoint.com/:p:/g/personal/tuq37744_temple_edu/EQax2OTlGUdNjHXNHejRmHIBPE56IuCUM_lQFiFRyUJXtg?e=uFdkUN 
 # link to game play: [https://share.icloud.com/photos/01aAbq9do2EYcWQAyu1SIwuFA](https://youtu.be/TSZI67vG6bA)
 define e = Character()
 
