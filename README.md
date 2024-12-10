@@ -2,7 +2,7 @@
 name: Ren'Py setup          
   uses: Ayowel/renpy-setup-action@v2.0.1 
 # link to powerpoint overview of game and issues we had: 
-# link to game play: https://share.icloud.com/photos/01aAbq9do2EYcWQAyu1SIwuFA
+# link to game play: [https://share.icloud.com/photos/01aAbq9do2EYcWQAyu1SIwuFA](https://youtu.be/TSZI67vG6bA)
 define e = Character()
 
 define pov = Character("[player_name]")  
